@@ -1,5 +1,5 @@
 # SinaVideoDemo
 refer to
-https://github.com/SinaVDDeveloper/sinavideo_playersdk
-https://github.com/SinaVDDeveloper/sinavideo_playercore
-https://github.com/SinaVDDeveloper/demo
+1. https://github.com/SinaVDDeveloper/sinavideo_playersdk
+2. https://github.com/SinaVDDeveloper/sinavideo_playercore
+3. https://github.com/SinaVDDeveloper/demo
